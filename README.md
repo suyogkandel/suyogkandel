@@ -17,7 +17,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://suyogkandel.com.np/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suyogkandel&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogkandel)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogkandel&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyogkandel&repo=suyogkandel.github.io&show_owner=true)
 
 ![Profile views](https://gpvc.arturio.dev/suyogkandel)
