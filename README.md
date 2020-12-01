@@ -16,8 +16,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/suyogkandel)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://suyogkandel.com.np/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suyogkandel&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogkandel)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suyogkandel&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogkandel)
 
 ![Profile views](https://gpvc.arturio.dev/suyogkandel)
 <!--
